@@ -1,0 +1,27 @@
+{
+    "last_duty_list":{
+        "Floor_1": {
+        "Left_wing": "102",
+        "Right_wing": "112"
+    },
+    "Floor_2": {
+        "Left_wing": "201",
+        "Right_wing": "210"
+            
+    },
+    "Floor_3": {
+        "Left_wing": "301",
+        "Right_wing": "310"
+    },
+    "Floor_4": {
+        "Left_wing": "401",
+        "Right_wing": "410"
+    },
+    "Floor_5": {
+        "Left_wing": "501",
+        "Right_wing": "510"
+    
+    }
+
+    }}
+    
