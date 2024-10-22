@@ -37,5 +37,5 @@ for i in range(18,21):
         else:
             all_rooms[key]["Right_wing"][f'{j}0{i}' if i <10 else f'{j}{i}'] = 3
 
-with open("All_rooms/all_rooms.json", "w") as f:
+with open("./data/all_rooms.json", "w") as f:
     json.dump(all_rooms,f, indent=4)
