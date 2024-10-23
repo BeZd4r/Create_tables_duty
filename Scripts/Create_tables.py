@@ -1,14 +1,12 @@
 from pathlib import Path
-from datetime import datetime
 from json import dump
 from calendar import monthrange
 from openpyxl import load_workbook, Workbook, styles
 
 class Create_Tables:
 
-    def __init__(self,merged_rooms, duty_rooms):
+    def __init__(self,merged_rooms, duty_rooms,current_time):
 
-        current_time = datetime.now()
         self.current_year = current_time.year
         self.current_month = current_time.month
         days = monthrange(self.current_year, self.current_month)

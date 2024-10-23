@@ -1,22 +1,22 @@
 {
     "Floor_1": {
-        "Left_wing": "124",
-        "Right_wing": "117"
+        "Left_wing": "105",
+        "Right_wing": "113"
     },
     "Floor_2": {
-        "Left_wing": "201",
-        "Right_wing": "212"
+        "Left_wing": "202",
+        "Right_wing": "216"
     },
     "Floor_3": {
-        "Left_wing": "306",
-        "Right_wing": "316"
+        "Left_wing": "303",
+        "Right_wing": "320"
     },
     "Floor_4": {
-        "Left_wing": "401",
-        "Right_wing": "415"
+        "Left_wing": "424",
+        "Right_wing": "418"
     },
     "Floor_5": {
-        "Left_wing": "501",
-        "Right_wing": "515"
+        "Left_wing": "524",
+        "Right_wing": "518"
     }
 }
